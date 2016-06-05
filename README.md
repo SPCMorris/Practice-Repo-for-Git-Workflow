@@ -2,5 +2,5 @@
 Practicing git workflow and terminal commands
 
 
-This repo is just for practicing using git bash and git workflow. 
+This repo is just for practicing git bash and git workflow. 
 
